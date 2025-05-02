@@ -13,7 +13,7 @@ A simple command-line Rock-Paper-Scissors game written in Python. The user plays
 1. Make sure you have Python installed on your system or you can use Visual Studio Code as per your ease.
 2. Clone this repository:
 
-https://github.com/amnanaseerr/rock-paper-scissors.git
+https://github.com/amnanaseerr/rock-paper-scissor
 
 3. Navigate to the project directory:
 4. Run the game:
